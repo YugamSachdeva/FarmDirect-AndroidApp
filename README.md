@@ -65,11 +65,6 @@ A full-stack Android marketplace app that connects farmers directly with custome
 
 ---
 
-## 📸 Screenshots
-
-*(Add screenshots here for better visibility)*
-
----
 
 ## 🎯 Future Improvements
 
