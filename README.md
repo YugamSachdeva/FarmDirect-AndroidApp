@@ -1,47 +1,88 @@
 # 🌾 FarmDirect - Farmer to Customer Marketplace App
 
-A direct farmer-to-customer marketplace Android application built with Java and Firebase.
+A full-stack Android marketplace app that connects farmers directly with customers, eliminating middlemen and enabling fair pricing.
 
-## Features
+---
 
-### 👨‍🌾 Farmer Side
-- Dashboard with live stats (products, pending orders, earnings)
-- Add, edit, delete products with search
-- 3-tab order management (New, Accepted, History)
-- Customer detail popup in orders
-- Profile with initials circle
+## 🚀 Key Highlights
 
-### 🛒 Customer Side
-- Browse fresh products with search
-- Product detail popup with farmer info
-- Cart with quantity control (+/-)
-- Real-time order status tracking
-- Order timestamp
+* 👨‍🌾 Direct farmer-to-customer selling model
+* ⚡ Real-time order tracking using Firebase
+* 🔐 Secure authentication system
+* 📱 Clean, modern Material UI
 
-### ⚡ Smart Features
-- Animated splash screen
-- Role-based login (Farmer/Customer)
-- Real-time order status updates
-- Auto quantity reduce on order accept
-- Cart badge with item count
-- Duplicate cart check
-- No internet screen
-- Loading spinner
+---
+
+## 📱 Features
+
+### 👨‍🌾 Farmer Panel
+
+* Dashboard with live stats (products, orders, earnings)
+* Add / edit / delete products
+* Order management (New, Accepted, History)
+* View customer details
+* Profile management
+
+---
+
+### 🛒 Customer Panel
+
+* Browse products with search
+* View product & farmer details
+* Add to cart with quantity control
+* Real-time order tracking
+* Order history
+
+---
+
+### ⚡ Smart Functionalities
+
+* Role-based login (Farmer / Customer)
+* Animated splash screen
+* Cart badge with live item count
+* Duplicate cart prevention
+* Auto inventory update on order
+* Internet connectivity handling
+* Loading indicators for smooth UX
+
+---
 
 ## 🛠 Tech Stack
-- Java (Android)
-- Firebase Authentication
-- Firebase Firestore
-- ViewPager2
-- Material Design
-- RecyclerView
 
-## ⚙️ Setup
+* **Language:** Java (Android)
+* **Backend:** Firebase Authentication, Firestore
+* **UI:** Material Design, RecyclerView, ViewPager2
+
+---
+
+## ⚙️ Setup Instructions
+
 1. Clone the repository
 2. Open in Android Studio
-3. Add your own google-services.json file
-4. Enable Email/Password in Firebase Authentication
+3. Add your `google-services.json`
+4. Enable Email/Password Authentication in Firebase
 5. Run the app
 
-## 📱 Screenshots
-Coming soon...
+---
+
+## 📸 Screenshots
+
+*(Add screenshots here for better visibility)*
+
+---
+
+## 🎯 Future Improvements
+
+* Online payments integration
+* Push notifications
+* Ratings & reviews system
+* Location-based product filtering
+
+---
+
+## 👨‍💻 Developer
+
+**Yugam Sachdeva**
+Aspiring Data Analyst | Android Developer
+
+---
